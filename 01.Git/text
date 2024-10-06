@@ -1,0 +1,71 @@
+标题
+# 一级标题
+## 二级标题
+### 三级标题
+
+无序列表
+- 无序列表1
+- 无序列表2
+  - 无序列表2.1
+* 无序列表1
++ 无序列表1
+
+有序列表
+1. 有序列表1
+2. 有序列表2
+
+-[ ]未完成项
+-[x]已完成项
+
+表格
+| head1 | head2 | head3 |
+| :---: | :---- | ----: |
+|center |  left | right |
+
+强调
+*斜体*
+_斜体_
+**粗体**
+__粗体__
+***粗体加斜体***
+___粗体加斜体___
+<u>下划线<u>
+~~删除线~~
+
+<font color="red">红色</font>
+
+引用
+>
+>>
+>>>
+
+代码段
+`markdown`
+
+代码块
+```c
+#incl
+---
+***
+———
+
+
+脚注[^test]
+
+[^test]:脚主说明ude<stdio.h>
+int main()
+{
+    printf("hello world\n");
+    return 0;
+}
+```
+
+公式
+$f(x)=\frac{1}{2}(x^2+y^2)$
+
+链接
+ [Markdown语法](https://markdown.com.cn)
+！[图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+[锚点](#一级标题)
+
+分隔线
